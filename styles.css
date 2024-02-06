@@ -1,0 +1,16 @@
+h1{
+    color: rgb(255, 255, 255);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+body{
+    background-color: rgb(215, 84, 128);
+}
+
+.page-item{
+    background-color: rgb(255, 139, 181);
+}
+
+.list-group-item{
+    background-color: rgb(215, 63, 114);
+}
